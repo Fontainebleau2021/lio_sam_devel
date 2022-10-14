@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LIO-SAM
 
 **A real-time lidar-inertial odometry package. We strongly recommend the users read this document thoroughly and test the package with the provided dataset first. A video of the demonstration of the method can be found on [YouTube](https://www.youtube.com/watch?v=A0H8CoORZJU).**
@@ -270,3 +271,6 @@ Part of the code is adapted from [LeGO-LOAM](https://github.com/RobustFieldAuton
 ## Acknowledgement
 
   - LIO-SAM is based on LOAM (J. Zhang and S. Singh. LOAM: Lidar Odometry and Mapping in Real-time).
+=======
+# lio_sam_devel
+>>>>>>> main
